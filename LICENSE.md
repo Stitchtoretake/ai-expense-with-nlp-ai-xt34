@@ -1,4 +1,4 @@
-# 
+# Gratuito AI Expense Tracker with NLP extensões. Com análise preditiva e processamento em tempo real — otimizado para máximo desempenho.
 
 
 
